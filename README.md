@@ -1,6 +1,6 @@
 ### Hi I'M Alief Alhadi ! 👋
 
-- 🔭 I’m currently working on PT Solusi Data Madani
+- 🔭 I’m currently working on [PT Solusi Data Madani](https://www.ideku.io/id)
 - 🌱 I’m currently learning Dart, Flutter and Firebase
 - 💬 Ask me about Flutter or any tech related stuff
 - 📫 How to reach me: [Instagram - @alhadialief](https://www.instagram.com/alhadialief/), [LinkedIn - @aliefalhadi](https://www.linkedin.com/in/alief-alhadi-23337a182)
